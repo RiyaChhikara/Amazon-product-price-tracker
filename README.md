@@ -8,7 +8,7 @@ Before using this script, you need to have the following:
 
 - Python and BeautifulSoup: Ensure you have Python installed and the BeautifulSoup library. You can install BeautifulSoup using pip:
   - pip install beautifulsoup4
-  - 
+  
 - SMTP Library: Python's built-in SMTP library is used for sending emails. You don't need to install it separately; it's part of the Python standard library.
 
 ## Configuration
